@@ -1,6 +1,6 @@
 
 <div align='center'>
-<h2> Bem vindo ao meu GitHub, Sou Marcelo e tenho 20 anos!</h2>
+<h2> Bem vindo ao meu GitHub </h2>
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -26,6 +26,7 @@
   </div>
 
 ### Sobre Mim!
+  - 👨🏻‍💻 Me chamo **Marcelo Santos**
   - 🎉 Tenho **20** anos
   - 📌 Moro atualmente em **Uberlândia/MG**
   - 🏥 Nasci em **Uberlândia/MG**

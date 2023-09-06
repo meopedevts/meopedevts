@@ -20,10 +20,14 @@
 </div>
 <br/>
 
-  <div align='center'>
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=meopedevts&show_icons=true&theme=tokyonight&card_width=50%" />
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=meopedevts&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=50%" />
-  </div>
+<div align="center">
+  <a href="https://github.com/meopedevts/personal-portfolio">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=meopedevts&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/meopedevts/personal-portfolio">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=meopedevts&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
 
 ### Sobre Mim!
   - 👨🏻‍💻 Me chamo **Marcelo Santos**

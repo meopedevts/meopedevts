@@ -30,7 +30,7 @@
 
 ### Sobre Mim!
   - 👨🏻‍💻 Me chamo **Marcelo Santos**
-  - 🎉 Tenho **20** anos
+  - 🎉 Tenho **21** anos
   - 📌 Moro atualmente em **Uberlândia/MG**
   - 🏥 Nasci em **Uberlândia/MG**
 <br/>

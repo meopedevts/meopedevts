@@ -6,8 +6,6 @@
 ### Sobre Mim!
 - Me chamo **Marcelo Santos**
 - Tenho **21** anos
-- Moro atualmente em **Uberlândia/MG**
-- Nasci em **Uberlândia/MG**
 
 ### :gear: Front-end:  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
